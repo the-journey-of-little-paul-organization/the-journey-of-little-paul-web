@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGUI", "WebGUI\WebGUI.csproj", "{E31218D5-99F8-44A0-AE2E-0A13DD6BEA86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31218D5-99F8-44A0-AE2E-0A13DD6BEA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31218D5-99F8-44A0-AE2E-0A13DD6BEA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31218D5-99F8-44A0-AE2E-0A13DD6BEA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31218D5-99F8-44A0-AE2E-0A13DD6BEA86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
