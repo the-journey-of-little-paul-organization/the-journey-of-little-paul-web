@@ -1,14 +1,14 @@
-const { scr, dest, watch, series } = require('gulp')
+const { src, dest, watch, series } = require('gulp')
 const sass = require('gulp-sass')(require('sass'))
 
 function buildStyles() {
-  return scr('index.scss')
+  return src('Wiki/wwwroot/scss/index.scss')
     .pipe(sass())
-    .pipe(dest('css'))
+    .pipe(dest('Wiki/wwwroot'))
 }
 
 function watchTask() {
-  watch(['index.scss'], buildStyles)
+  watch(['Wiki/wwwroot/scss/index.scss'], buildStyles)
 }
 
 exports.default = series (buildStyles, watchTask)
