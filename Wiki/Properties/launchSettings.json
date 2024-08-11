@@ -38,7 +38,7 @@
         "commandName": "Executable",
         "workingDirectory": "$(ProjectDir)",
         "executablePath": "dotnet",
-        "commandLineArgs": "run gulp --launch-profile http"
+        "commandLineArgs": "watch run debug --launch-profile http"
       }
     }
   }
