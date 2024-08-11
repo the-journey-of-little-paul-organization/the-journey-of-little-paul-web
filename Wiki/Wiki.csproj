@@ -6,4 +6,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="JacobDixon.AspNetCore.LiveSassCompile" Version="0.1.19-alpha0000" />
+    </ItemGroup>
+
 </Project>
