@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\Wiki.bundle.scp.css"
     },
     {
-      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\app.css",
-      "PackagePath": "staticwebassets\\app.css"
-    },
-    {
       "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
@@ -19,6 +15,14 @@
     {
       "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\index.scss",
+      "PackagePath": "staticwebassets\\scss\\index.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Wiki.Microsoft.AspNetCore.StaticWebAssets.props",

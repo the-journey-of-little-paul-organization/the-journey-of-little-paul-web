@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TuvOso5zhEpDHfFXeCcdiU9cl2PTgYUw4E0KnilF3ZU=",
+  "Hash": "O4nod94eoMf9+cBMhEnt4s2/Y1EZDlHpuaB84Cncy04=",
   "Source": "Wiki",
   "BasePath": "_content/Wiki",
   "Mode": "Default",
@@ -53,25 +53,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Wiki.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\app.css",
-      "SourceId": "Wiki",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
-      "BasePath": "_content/Wiki",
-      "RelativePath": "app.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
       "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css",
@@ -129,6 +110,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css",
+      "SourceId": "Wiki",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "BasePath": "_content/Wiki",
+      "RelativePath": "index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\index.scss",
+      "SourceId": "Wiki",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "BasePath": "_content/Wiki",
+      "RelativePath": "scss/index.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scss\\index.scss"
     }
   ]
 }

@@ -28,3 +28,9 @@ D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\ref
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\Wiki.pdb
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\Wiki.genruntimeconfig.cache
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\ref\Wiki.dll
+D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\bin\Debug\net8.0\AdvancedStringBuilder.dll
+D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\bin\Debug\net8.0\JacobDixon.AspNetCore.LiveSassCompile.dll
+D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\bin\Debug\net8.0\LibSassHost.dll
+D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\bin\Debug\net8.0\runtimes\win-x64\native\libsass.dll
+D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\Wiki.csproj.AssemblyReference.cache
+D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\Wiki.csproj.Up2Date
