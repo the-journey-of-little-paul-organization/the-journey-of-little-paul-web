@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "bootstrap-scss": "^5.3.3",
     "gulp": "^5.0.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.77.8"
