@@ -1,0 +1,17 @@
+.ce-header{
+  background-image: url("resources/background.jpg");
+  display: flex;
+  flex-direction: column;
+  .logo-link{
+    height: 30px;
+    width: 30px
+  }
+  .logo-img{
+    height: 130px;
+    width: auto;
+    
+    object-fit: contain;
+    border-radius: 30px;
+    padding-bottom: 6px;
+  }
+}

@@ -19,9 +19,7 @@ D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\sta
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Wiki.props
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wiki.props
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\staticwebassets.pack.json
-D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\scopedcss\bundle\Wiki.styles.css
-D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\scopedcss\projectbundle\Wiki.bundle.scp.css
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\Wiki.dll
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\refint\Wiki.dll
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\Wiki.pdb
