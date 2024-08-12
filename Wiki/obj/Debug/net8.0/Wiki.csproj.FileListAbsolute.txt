@@ -20,7 +20,6 @@ D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\sta
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wiki.props
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\staticwebassets.pack.json
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\scopedcss\bundle\Wiki.styles.css
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\scopedcss\projectbundle\Wiki.bundle.scp.css
 D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\obj\Debug\net8.0\Wiki.dll

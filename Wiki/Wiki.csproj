@@ -10,4 +10,8 @@
       <PackageReference Include="JacobDixon.AspNetCore.LiveSassCompile" Version="0.1.19-alpha0000" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot\Resources\" />
+    </ItemGroup>
+
 </Project>
