@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "sass --watch Wiki/wwwroot/scss/index.scss:Wiki/wwwroot/index.css",
+    "start": "sass Wiki/wwwroot/scss/index.scss:Wiki/wwwroot/index.css"
   },
   "author": "",
   "license": "ISC",

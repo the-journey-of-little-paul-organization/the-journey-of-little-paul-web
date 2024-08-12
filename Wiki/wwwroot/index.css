@@ -4,7 +4,7 @@
   flex-direction: column;
 }
 .ce-header .logo-link {
-  height: 30px;
+  height: 300px;
   width: 30px;
 }
 .ce-header .logo-img {
@@ -14,3 +14,8 @@
   border-radius: 30px;
   padding-bottom: 6px;
 }
+.ce-header .navbar a {
+  color: #6a1a21;
+}
+
+/*# sourceMappingURL=index.css.map */

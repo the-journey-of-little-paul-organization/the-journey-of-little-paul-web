@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zj4JFWXSM690xJJ68HmQJQrVz6luDFeeZZc7lyl80A8=",
+  "Hash": "/UcA35iURo3vGLHDDx4lMXPkEG9shOcP3h+R4pCc0HE=",
   "Source": "Wiki",
   "BasePath": "_content/Wiki",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css.map",
+      "SourceId": "Wiki",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "BasePath": "_content/Wiki",
+      "RelativePath": "index.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css.map"
     },
     {
       "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\background.jpg",
