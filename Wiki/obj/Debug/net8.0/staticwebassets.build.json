@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/UcA35iURo3vGLHDDx4lMXPkEG9shOcP3h+R4pCc0HE=",
+  "Hash": "QCn7/fvT1krJaDVHBWWJ6pzPPtO2ctBmjSMXS7RKKAk=",
   "Source": "Wiki",
   "BasePath": "_content/Wiki",
   "Mode": "Default",
@@ -205,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\scss\\main.scss"
+    },
+    {
+      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\variables.scss",
+      "SourceId": "Wiki",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "BasePath": "_content/Wiki",
+      "RelativePath": "scss/variables.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scss\\variables.scss"
     }
   ]
 }

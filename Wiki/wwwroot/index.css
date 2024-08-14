@@ -1,21 +1,15 @@
 .ce-header {
-  background-image: url("resources/background.jpg");
   display: flex;
   flex-direction: column;
 }
-.ce-header .logo-link {
-  height: 300px;
-  width: 30px;
-}
 .ce-header .logo-img {
+  margin-top: 20px;
   height: 130px;
   width: auto;
   object-fit: contain;
-  border-radius: 30px;
-  padding-bottom: 6px;
 }
-.ce-header .navbar a {
-  color: #6a1a21;
-}
+
+/*
+@import '../../../node_modules/bootstrap-scss/bootstrap';*/
 
 /*# sourceMappingURL=index.css.map */
