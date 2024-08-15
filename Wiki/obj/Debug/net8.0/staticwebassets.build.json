@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QCn7/fvT1krJaDVHBWWJ6pzPPtO2ctBmjSMXS7RKKAk=",
+  "Hash": "YuTdlHNZWJ/yI1OEKduYg1pAACOnHA5qqFl4Q11InAg=",
   "Source": "Wiki",
   "BasePath": "_content/Wiki",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Wiki\\wwwroot",
       "Source": "Wiki",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\favicon.png",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\favicon.png",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "index.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\index.css"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css.map",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css.map",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "index.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\index.css.map"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\background.jpg",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\background.jpg",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "resources/background.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\resources\\background.jpg"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\logo.png",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\logo.png",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "resources/logo.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\resources\\logo.png"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\header.scss",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\header.scss",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "scss/header.scss",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\header.scss"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\index.scss",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\index.scss",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "scss/index.scss",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\index.scss"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\main.scss",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\main.scss",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "scss/main.scss",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\main.scss"
     },
     {
-      "Identity": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\variables.scss",
+      "Identity": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\variables.scss",
       "SourceId": "Wiki",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
+      "ContentRoot": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\",
       "BasePath": "_content/Wiki",
       "RelativePath": "scss/variables.scss",
       "AssetKind": "All",

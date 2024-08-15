@@ -9,51 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Wiki
 build_property.RootNamespace = Wiki
-build_property.ProjectDir = D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki\
+build_property.ProjectDir = D:\private\Private\the-journey-of-little-paul-web\Wiki\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\CodeIsFun\MyProjects\the-journey-of-little-paul-web\Wiki
+build_property.MSBuildProjectDirectory = D:\private\Private\the-journey-of-little-paul-web\Wiki
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/App.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/Layout/Footer.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Components/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wb25lbnRzXENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Layout/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRm9vdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/Layout/Header.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Layout/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcSGVhZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/Layout/MainLayout.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/Pages/Counter.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/Pages/Error.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/Pages/Home.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/Pages/Weather.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/Routes.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeIsFun/MyProjects/the-journey-of-little-paul-web/Wiki/Components/_Imports.razor]
+[D:/private/Private/the-journey-of-little-paul-web/Wiki/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

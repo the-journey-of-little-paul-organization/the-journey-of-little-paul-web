@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zx2ytmWgsd8vSFXJeP3Z6ZENa42TIU+91eGGEFRnrahAugvPbvveh4egcVj/Gj4em1iQC3CKk9eHKuUhxx4PYg==",
+  "dgSpecHash": "sWC4nuUIQmSDbyd0OI1RWyU6oNU1tXtqvk919J2hiQJ2Yhb4q0s647ADnhLBcyw9HqHEhXjJgOUWzky0ksUTmQ==",
   "success": true,
-  "projectFilePath": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\Wiki.csproj",
+  "projectFilePath": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\Wiki.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rapha\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\rapha\\.nuget\\packages\\jacobdixon.aspnetcore.livesasscompile\\0.1.19-alpha0000\\jacobdixon.aspnetcore.livesasscompile.0.1.19-alpha0000.nupkg.sha512",
@@ -17,7 +17,11 @@
     "C:\\Users\\rapha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
     "C:\\Users\\rapha\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
     "C:\\Users\\rapha\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.9\\microsoft.extensions.options.configurationextensions.3.1.9.nupkg.sha512",
-    "C:\\Users\\rapha\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+    "C:\\Users\\rapha\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\rapha\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\rapha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\rapha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\rapha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
