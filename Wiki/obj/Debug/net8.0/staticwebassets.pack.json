@@ -1,47 +1,71 @@
 {
   "Files": [
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\favicon.png",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css",
       "PackagePath": "staticwebassets\\index.css"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css.map",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\index.css.map",
       "PackagePath": "staticwebassets\\index.css.map"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\background.jpg",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\3d-fantasy-scene.jpg",
+      "PackagePath": "staticwebassets\\resources\\3d-fantasy-scene.jpg"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\3d-isometric-landscape-1.jpg",
+      "PackagePath": "staticwebassets\\resources\\3d-isometric-landscape-1.jpg"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\3d-isometric-landscape-2.jpg",
+      "PackagePath": "staticwebassets\\resources\\3d-isometric-landscape-2.jpg"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\background.jpg",
       "PackagePath": "staticwebassets\\resources\\background.jpg"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\logo.png",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\integration.jpg",
+      "PackagePath": "staticwebassets\\resources\\integration.jpg"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\logo.png",
       "PackagePath": "staticwebassets\\resources\\logo.png"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\header.scss",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\resources\\team.jpg",
+      "PackagePath": "staticwebassets\\resources\\team.jpg"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\card.scss",
+      "PackagePath": "staticwebassets\\scss\\card.scss"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\header.scss",
       "PackagePath": "staticwebassets\\scss\\header.scss"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\index.scss",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\home.scss",
+      "PackagePath": "staticwebassets\\scss\\home.scss"
+    },
+    {
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\index.scss",
       "PackagePath": "staticwebassets\\scss\\index.scss"
     },
     {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\main.scss",
-      "PackagePath": "staticwebassets\\scss\\main.scss"
-    },
-    {
-      "Id": "D:\\private\\Private\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\variables.scss",
+      "Id": "D:\\CodeIsFun\\MyProjects\\the-journey-of-little-paul-web\\Wiki\\wwwroot\\scss\\variables.scss",
       "PackagePath": "staticwebassets\\scss\\variables.scss"
     },
     {

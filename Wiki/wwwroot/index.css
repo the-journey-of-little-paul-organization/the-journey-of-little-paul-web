@@ -1,3 +1,14 @@
+.min-h-450 {
+  min-height: 450px;
+}
+
+.ce-main-cards {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
 .ce-header {
   display: flex;
   flex-direction: column;
@@ -8,8 +19,16 @@
   width: auto;
   object-fit: contain;
 }
+.ce-header .navbar-toggler {
+  border: lightgray solid 2px;
+  background-color: #dadada;
+}
 
 /*
 @import '../../../node_modules/bootstrap-scss/bootstrap';*/
+.section-spacing {
+  margin-bottom: 6rem;
+  margin-top: 6rem;
+}
 
 /*# sourceMappingURL=index.css.map */
